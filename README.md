@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Madiyar</h1>
 <h3 align="center">A Software-developer</h3>
-<img  align="right" alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
+<img  align="right" alt="Coder GIF" height=250 width=350 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madi-y-a-r&label=Profile%20views&color=0e75b6&style=flat" alt="madi-y-a-r" /> </p>
 
 - 🔭 I’m currently working on [CodiTeach v3](Private)
