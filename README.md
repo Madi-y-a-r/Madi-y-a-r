@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Next, React,**
 
-- 📫 How to reach me **madiyar.galymvek**
+- 📫 How to reach me **madiyar.galymbek@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
